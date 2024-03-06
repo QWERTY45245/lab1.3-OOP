@@ -1,0 +1,13 @@
+﻿  Fraction.cpp
+C:\Users\Admin\Desktop\ООП\lab1.3ООП\Fraction.cpp(91,27): warning C4244: 'initializing': conversion from 'long double' to '__int64', possible loss of data
+C:\Users\Admin\Desktop\ООП\lab1.3ООП\Fraction.cpp(92,37): warning C4244: 'initializing': conversion from 'long double' to 'unsigned short', possible loss of data
+C:\Users\Admin\Desktop\ООП\lab1.3ООП\Fraction.cpp(99,28): warning C4244: 'initializing': conversion from 'long double' to '__int64', possible loss of data
+C:\Users\Admin\Desktop\ООП\lab1.3ООП\Fraction.cpp(100,38): warning C4244: 'initializing': conversion from 'long double' to 'unsigned short', possible loss of data
+C:\Users\Admin\Desktop\ООП\lab1.3ООП\Fraction.cpp(107,28): warning C4244: 'initializing': conversion from 'long double' to '__int64', possible loss of data
+C:\Users\Admin\Desktop\ООП\lab1.3ООП\Fraction.cpp(108,38): warning C4244: 'initializing': conversion from 'long double' to 'unsigned short', possible loss of data
+  Source.cpp
+C:\Users\Admin\Desktop\ООП\lab1.3ООП\Source.cpp(17,29): error C2660: 'Fraction::add': function does not take 1 arguments
+C:\Users\Admin\Desktop\ООП\lab1.3ООП\Fraction.h(25,14): message : see declaration of 'Fraction::add'
+C:\Users\Admin\Desktop\ООП\lab1.3ООП\Source.cpp(17,29): message : while trying to match the argument list '(Fraction)'
+C:\Users\Admin\Desktop\ООП\lab1.3ООП\Source.cpp(17,44): fatal  error C1903: unable to recover from previous error(s); stopping compilation
+  Generating Code...
